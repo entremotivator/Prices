@@ -1292,7 +1292,7 @@ comprehensive_case_studies = [
             "safety_incidents": "94% reduction",
             "client_satisfaction": "89% (up from 62%)",
             "subcontractor_efficiency": "145% improvement",
-            "revenue_  "89% (up from 62%)",
+            "revenue_  " + "89% (up from 62%)",
             "subcontractor_efficiency": "145% improvement",
             "revenue_growth": "$2.8M annually",
             "operational_savings": "$520K annually"
